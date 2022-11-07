@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+.container {
+  padding: 30px 0;
+  display: flex;
+}
+
+.sperma {
+    height: 400px;
+    width: 400px;
+    border-radius: 30px;
+    border: 2px solid black;
+    margin-left: 10px;
+}
+
+p {
+  font-family: monospace;
+  color: black;
+  font-size: 25px;
+  padding-left: 30px;
+  margin: 20px 0;
+}
